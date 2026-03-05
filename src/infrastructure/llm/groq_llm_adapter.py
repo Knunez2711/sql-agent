@@ -13,8 +13,7 @@ from src.domain.exceptions.domain_exceptions import SQLGenerationException
 
 logger = logging.getLogger(__name__)
 
-MODEL_NAME = "llama-3.1-70b-versatile"
-
+MODEL_NAME = "llama-3.3-70b-versatile"
 
 class GroqLLMAdapter(SQLGeneratorPort):
     """

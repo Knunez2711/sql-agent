@@ -1,16 +1,6 @@
--- ============================================
--- Script de base de datos de ejemplo: Empresa
--- Ejecutar en PostgreSQL con:
--- psql -U postgres -f database/seed.sql
--- ============================================
 
--- Crear base de datos
 CREATE DATABASE empresa_db;
 \c empresa_db;
-
--- ============================================
--- TABLAS
--- ============================================
 
 CREATE TABLE departamentos (
     id SERIAL PRIMARY KEY,
