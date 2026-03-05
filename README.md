@@ -264,12 +264,6 @@ POST /api/query
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo la licencia **MIT** — siéntete libre de usarlo, modificarlo y distribuirlo.
-
----
-
 <div align="center">
 
 *Hecho con ❤️ y mucho ☕ por Kevin Núñez*
